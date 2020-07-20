@@ -9,9 +9,9 @@
 ## quick cheat sheet for Command line/Terminal use for Mac
 
 CORE COMMANDS
-----|:--------
-cd	| Home directory
-cd [folder]	| Change directory
+
+cd Home directory
+cd [folder]	Change directory
 cd ~	Home directory, e.g. ‘cd ~/folder/’
 cd /	Root of drive
 ls	Short listing
