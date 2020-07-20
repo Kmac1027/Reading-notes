@@ -6,11 +6,12 @@
  - Generally used along side the **GUI**, although, can be used all by itself
  - Everything is a file
  
-## quick cheat sheet for Command line/Terminal use
-```
+## quick cheat sheet for Command line/Terminal use for Mac
+
 CORE COMMANDS
-cd	Home directory
-cd [folder]	Change directory
+----|:--------
+cd	| Home directory
+cd [folder]	| Change directory
 cd ~	Home directory, e.g. ‘cd ~/folder/’
 cd /	Root of drive
 ls	Short listing
@@ -24,5 +25,3 @@ open .	Opens the directory
 top	Displays active processes. Press q to quit
 nano [file]	Opens the Terminal it’s editor
 pico [file]	Opens the Terminal it’s editor
-
-```
