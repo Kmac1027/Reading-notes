@@ -10,7 +10,8 @@ Markdown is a way to style text on the web
 
 you can create a **header** using the example below
 
-***
+```
 blah blah blah
 
+```
 
