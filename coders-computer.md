@@ -10,7 +10,7 @@
 
 CORE COMMANDS
 
-cd Home directory
+cd Home directory <br>
 cd [folder]	Change directory
 cd ~	Home directory, e.g. ‘cd ~/folder/’
 cd /	Root of drive
