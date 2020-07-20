@@ -2,9 +2,12 @@
 ## This is a Header
 
 you can create a header using the example below
-'''
+
+---
 # Header
-'''
+---
+
+
 
 # Header 1
 ## Header 2
