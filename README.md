@@ -1,10 +1,6 @@
 # Markdown Practace
-## This is a Header
-
-you can create a **header** using the example below
-
-***
-blah blah blah
+## What is Markdown? ##
+Markdown is a way to style text on the web
 
 ### what can markdown do? ###
 - it is is a way to style text on the web
@@ -12,3 +8,10 @@ blah blah blah
 - formatting words as bold or italic
 - adding images
 - creating lists
+
+you can create a **header** using the example below
+
+***
+blah blah blah
+
+
