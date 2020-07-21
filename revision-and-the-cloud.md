@@ -1,10 +1,11 @@
 # Revisions and the Cloud
 
 ## what is Git?
+
 Git is a way for developers to all be able to work on the same 
 project at the same time while still being able to look back and 
 see all previous work that has been done
-<br>
+***
 Git is a DVCS or Distributed Version Control, this means that all 
 information can be copied or mirrored to a backup sever as a way to
 protect the work being done from bugs or crashes.
