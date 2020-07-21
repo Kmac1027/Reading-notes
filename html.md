@@ -94,4 +94,17 @@ Visual hierarchy refers to the order in whuch your eyes preceive what they see
 <aside>
 ```
 
-###
+### Sections
+
+### Heading Groups
+
+### Figuresw
+
+- should be used when the content references the element (and not integrial to the flow of the page)
+
+```
+<figure>
+<figcaption>
+```
+
+### Sectioning Elements

@@ -25,5 +25,6 @@ open .	Opens the directory <br>
 top	Displays active processes. Press q to quit <br>
 nano [file]	Opens the Terminal it’s editor <br>
 pico [file]	Opens the Terminal it’s editor <br>
+touch creates files<br>
 
 [Back Home](README.md)
