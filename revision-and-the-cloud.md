@@ -47,7 +47,7 @@ git add filename
 Track all files in a repository by using the following command:
 
 ```
-$ git add *
+git add *
 ```
 
 *After using these commands, files are tracked and staged for committing*
