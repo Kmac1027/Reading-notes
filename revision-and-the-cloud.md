@@ -14,6 +14,12 @@ coding is done in a text editor locally, i use VSCode, and then is pushed to git
 
 ## GitHub repository cloning
 
+cloning a reposotory from github to a local computer
+
+```
+git clone (pathway of repository)
+```
+
 ### Git clone pathway - A.C.P.
 
 - Add
@@ -27,3 +33,21 @@ coding is done in a text editor locally, i use VSCode, and then is pushed to git
 ```
 
 *Git add . (Adds everything)*
+
+## tracking and staging
+
+Single File
+
+Track one file only by using the following format:
+
+```
+git add filename
+```
+
+Track all files in a repository by using the following command:
+
+```
+$ git add *
+```
+
+*After using these commands, files are tracked and staged for committing*
