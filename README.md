@@ -1,4 +1,4 @@
-# Markdown Practace
+# Markdown Practace and a Growth Mindset
 ## What is Markdown? 
 Markdown is a way to style text on the web
 
