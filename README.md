@@ -18,4 +18,11 @@ you can create a **header** using the example below
 
 *the number of # indicate the header size from 1 to 6 with 1 being the largest and 6 being the smallest*
 
+# the importance of a growth mindset
+1. allows you to stay positive when tough situations arise
+1. keeps always looking to get better
+1. helps you be a better team member and can help other team members grow as well
+
+
+
 live site - https://kmac1027.github.io/reading-notes/
