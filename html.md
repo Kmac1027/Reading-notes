@@ -15,7 +15,7 @@
 
 - putting all info your site need down on index cards and then figuring out the best/most relevant place for each card
 
-![Example](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F464011567854073042%2F&psig=AOvVaw25_7-BiQZZh3BbI6i2Fo-h&ust=1595451324371000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjJq72d3-oCFQAAAAAdAAAAABAD)
+![Example](https://i.pinimg.com/originals/1c/c5/f4/1cc5f4ec000969f11eedf4dbe0f8c9d8.png)
 
 ### wireframe
 
@@ -87,4 +87,11 @@ Visual hierarchy refers to the order in whuch your eyes preceive what they see
 
 ### Aside
 
-- when used inside an article, it should be with info related to the article but not essential to its overall meaning
+- when used **inside** an article, it should be with info related to the article but not essential to its overall meaning
+- when used ***outside*** of an article it acts as a container for content related to the entire page
+
+```
+<aside>
+```
+
+###
