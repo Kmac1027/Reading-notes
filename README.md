@@ -5,3 +5,4 @@
 - [Markdown Reading](markdown.md)
 - [Coders Computer Reading](coders-computer.md)
 - [Revision and the Cloud Reading](revision-and-the-cloud.md)
+- [HTML](html.md)
