@@ -20,9 +20,10 @@ coding is done in a text editor locally, i use VSCode, and then is pushed to git
 - command
 - push
 
+```
 1. Git add (name of file)
 1. Git commit -m “add description”
 1. Git push origin master
-*Git add . (Adds everything)*
+```
 
-Git pull origin master
+*Git add . (Adds everything)*
