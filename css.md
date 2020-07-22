@@ -49,3 +49,5 @@ does not need a closing tag
 - important to hav e enough contrast between text and background color
 - RGBA deals with color opacity
 - HSL to specify colors an d HSLA for dealing with opacity of those specified colors
+
+[Back Home](README.md)
