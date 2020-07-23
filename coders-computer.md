@@ -1,7 +1,11 @@
 # Reading notes from the coders computer
+
 ## choosing a text editor
+
 - The right one is the one you feel most comfortable with
+
 ## what is the terminal?
+
  - Text based interface
  - Generally used along side the **GUI**, although, can be used all by itself
  - Everything is a file

@@ -7,4 +7,5 @@
 - [Revision and the Cloud Reading](revision-and-the-cloud.md)
 - [HTML](html.md)
 - [CSS](css.md)
-- [Javascript](javascript.md)
+- [javascript](javascript.md)
+- [computer](computer.md)
