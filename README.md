@@ -10,3 +10,4 @@
 - [javascript](javascript.md)
 - [computer](computer.md)
 - [ Programming with JavaScript](program-javascript.md)
+- [Operators and Loops](Operators-and-Loops.md)
