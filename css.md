@@ -5,6 +5,10 @@
 - CSS - Cascading Style Sheet
 - CSS os the design side of the website, it dictates how a site should look and feel
 - CSS deals with how elements within a HTML file should appear
+- CSS can target 3 ways
+    1. .class
+    1. element
+    1. #ID
 
 ### Link tags
 
