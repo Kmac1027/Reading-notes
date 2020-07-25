@@ -1,13 +1,6 @@
-# Reading Notes for Codefellows Coding 102
+# Reading Notes for Codefellows
 
 ## Table of Contents
 
-- [Markdown Reading](markdown.md)
-- [Coders Computer Reading](coders-computer.md)
-- [Revision and the Cloud Reading](revision-and-the-cloud.md)
-- [HTML](html.md)
-- [CSS](css.md)
-- [javascript](javascript.md)
-- [computer](computer.md)
-- [ Programming with JavaScript](program-javascript.md)
-- [Operators and Loops](Operators-and-Loops.md)
+- [Code 102](102.md)
+- [code 201](201.md)
