@@ -20,12 +20,15 @@ Attribute Name = "Attribute Value"
 - HTML uses tags
 - tagsw are often refered to as elements
 - tags usually have an open and close tag but not always
-Example
+
+- Example
+
 ```
 <p> blah blah blah </p> <br>
 <p> blah blah blah </p>
 the <p> tag needs a closing tag but the <br> tag does not
 ```
+
 - open tags can have atributes which require a name and a value
 
 ### HTML chapter 8 "Extra Markup"
