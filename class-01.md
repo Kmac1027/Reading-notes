@@ -49,15 +49,19 @@ the <p> tag needs a closing tag but the <br> tag does not
 - inline elements stay in the same line
 - an iframe (short for inline frame) is like a little window in your page that shows another page, <br>
 like when a site shows a google map
+
 ```
 <iframe src=" " height=" " width=" "></iframe>
 ```
+
 - div and span allow you to group block 
 level and inline elements together
+
 ```
 <div>
 <span>
 ```
+
 - meta tag allows you to add info about your page, must be within the head tag
 
 ### HTML Chapter 17 "HTML5 Layout"
@@ -103,6 +107,6 @@ level and inline elements together
     1. **HTML** is the structure and content
     1. **CSS** is the Presentation
     1. **Javascript** is the behavior and interactive part
-- revie additional notes from coding 102
+- review additional notes from coding 102
 
 [Back to code 201 notes](201.md)
