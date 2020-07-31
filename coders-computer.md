@@ -31,4 +31,4 @@ nano [file]	Opens the Terminal it’s editor <br>
 pico [file]	Opens the Terminal it’s editor <br>
 touch creates files<br>
 
-[Back Home](README.md)
+[Back to code 102 notes](102.md)

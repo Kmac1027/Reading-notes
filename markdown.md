@@ -27,4 +27,5 @@ you can create a **header** using the example below
 1. begin to over come challenges quicker
 1. you learn to accept criticism as a growth opportunity instead of a personal attack
 
-[Back Home](README.md)
+[Back to code 102 notes](102.md)
+

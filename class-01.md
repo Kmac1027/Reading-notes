@@ -52,7 +52,8 @@ like when a site shows a google map
 ```
 <iframe src=" " height=" " width=" "></iframe>
 ```
-- div and span allow you to group block level and inline elements together
+- div and span allow you to group block 
+level and inline elements together
 ```
 <div>
 <span>
@@ -61,15 +62,47 @@ like when a site shows a google map
 
 ### HTML Chapter 17 "HTML5 Layout"
 
-- 
+- HTML5 elements indicate the purpose of different parts of the web page
+- older borwsers that do not understand HTML5 need to be told which elements are block level elements
 
+### HTML Chapter 18 "Process and Design"
+
+- good Questions to ask
+    1. who is the target audience/who is the site for
+    1. why people visit the site
+    1. what are the visitors to the site trying to achieve
+    1. what info do the visitors need
+    1. how often will people visit the site
+- site map - refer to 102 notes
+- wireframs - refer to 102 notes
+- visua; hierarchy
+- grouping ans similarity
+- design and navigation
+    1. concise
+    1. clear
+    1. selective
+    1. context
+    1. interactive
+    1. consistent
 
 ## Ducket Javascript and JQuery
 
 ### Introduction
 
-- 
+- JavaScript - used to make websites more interactive
 
 ### JS Chapter 1: "The ABC of Programing"
 
-- 
+- A script is a series of instructions that a computer can follow to accomplish a goal
+- state your goal, then list the tasks that need to be completed in order to achieve it
+- start with big picture then break that down into smaller steps
+    1. Define the goal
+    1. Design the Script
+    1. Code each step
+- HTMl, CSS, Javascript all fit together
+    1. **HTML** is the structure and content
+    1. **CSS** is the Presentation
+    1. **Javascript** is the behavior and interactive part
+- revie additional notes from coding 102
+
+[Back to code 201 notes](201.md)

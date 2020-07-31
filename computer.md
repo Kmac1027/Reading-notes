@@ -11,4 +11,4 @@
  - the smaller the circuts the faster electricity can go cuz it litterally has less space it has to travel
  - OS (operating system) is the master program that manages how the software uses the hardware of a computer
 
-[Back Home](README.md)
+[Back to code 102 notes](102.md)

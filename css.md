@@ -54,4 +54,4 @@ does not need a closing tag
 - RGBA deals with color opacity
 - HSL to specify colors an d HSLA for dealing with opacity of those specified colors
 
-[Back Home](README.md)
+[Back to code 102 notes](102.md)
