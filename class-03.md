@@ -62,3 +62,5 @@ max-height
   1. a **Do While** has the statement in the code block come before the condition, this means they will run at least once, weather the condition is met or not
 - all values evaluate to either **TRUTHY** or **FALSY**
 - there are 3 types of loops, **For**, **While**, **Do While**
+
+[Back to code 201 notes](201.md)
