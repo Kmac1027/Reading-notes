@@ -65,13 +65,13 @@ example
   1. expressions that use two or more values to return a single value
 - expressions rely on **operators** to calculate a value
 
-### Chapter 4: Decisions and Loops
+### Chapter 4: Decisions and Loops, continued in class 03 notes
 
 - condition statements allow your code to make desicions about what to do next
 - comparison operators are used to compare two operands
 - logical operators allow you to combine more than one set of compqrison operators
 - if/else statements allow you to run one set of code if a condition is true and another is false
-- switcvh statments allows you to compare a value against possible outcomes, and can provide a default option if none match
+- switch statments allows you to compare a value against possible outcomes, and can provide a default option if none match
 
 
 [Back to code 201 notes](201.md)
