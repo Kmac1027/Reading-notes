@@ -13,6 +13,7 @@
   1. Store the newly created object in a variable so you can access its properties and methods from **outside**
   1. Use the this variable within methods so you can access the object's properties and methods from **inside**.
 - example from article
+
 ```
 var EpicFailVideo = function(epicRating, hasAnimals) {
   this.epicRating = epicRating;
@@ -35,6 +36,7 @@ console.log(corgiFail.generateRandom(1, 5));
 ### Chapter 6: Tables
 
 - Tables represent information in a grid format.
+
 ```
 <table> - creates the table
 <tr></tr> - indicates the start of each row
@@ -45,6 +47,7 @@ colspan="number" - can be in <th> or <td> used to stretch accross more than one 
 rowspan="number" = used in the <th> or <td> to indicate how many rows a cell should span
 for longer tables you can split the table into <thead> <tbody> <tfoot>
 ```
+
 ## Ducket JS
 
 ### Chapter 3: Functions, Methods, and Objects(p. 106-144)
