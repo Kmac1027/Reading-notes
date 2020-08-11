@@ -30,6 +30,47 @@ console.log(parkourFail.generateRandom(1, 5));
 console.log(corgiFail.generateRandom(1, 5));
 ```
 
+## Ducket HTML
+
+### Chapter 6: Tables
+
+- Tables represent information in a grid format.
+```
+<table> - creates the table
+<tr></tr> - indicates the start of each row
+<td></td> - represents each cell
+<th> - just like a <tr> element but its purpose is the represent a heading for either a colum of a row
+
+colspan="number" - can be in <th> or <td> used to stretch accross more than one colum
+rowspan="number" = used in the <th> or <td> to indicate how many rows a cell should span
+for longer tables you can split the table into <thead> <tbody> <tfoot>
+```
+## Ducket JS
+
+### Chapter 3: Functions, Methods, and Objects(p. 106-144)
+
+- an object is a series of variables and functions that represent something from the real world around you
+- Example
+```
+function Person(first, last, age, eye) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eye;
+}
+```
+- It is considered good practice to name constructor functions with an upper-case first letter.
+- **this.** is a keyword, not a variable. when placed before a variable it is making reference to the variable that is within that object
+- in objects variables are known as properties and functions are known as methods
+- web browsers impliment objects that represent both the browser window and the document loaded into the browser window
+- Javascript has several built in objects, such as
+```
+String
+Number
+Math
+Date
+```
+- Arrays and objects can be used to create complex data sets and they both can contain the other
 
 
 [Back to code 201 notes](201.md)
