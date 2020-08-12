@@ -54,6 +54,7 @@ for longer tables you can split the table into <thead> <tbody> <tfoot>
 
 - an object is a series of variables and functions that represent something from the real world around you
 - Example
+
 ```
 function Person(first, last, age, eye) {
   this.firstName = first;
@@ -62,18 +63,20 @@ function Person(first, last, age, eye) {
   this.eyeColor = eye;
 }
 ```
+
 - It is considered good practice to name constructor functions with an upper-case first letter.
 - **this.** is a keyword, not a variable. when placed before a variable it is making reference to the variable that is within that object
 - in objects variables are known as properties and functions are known as methods
 - web browsers impliment objects that represent both the browser window and the document loaded into the browser window
 - Javascript has several built in objects, such as
+
 ```
 String
 Number
 Math
 Date
 ```
-- Arrays and objects can be used to create complex data sets and they both can contain the other
 
+- Arrays and objects can be used to create complex data sets and they both can contain the other
 
 [Back to code 201 notes](201.md)
