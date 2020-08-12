@@ -1,26 +1,6 @@
 # Read: 08 - More CSS Layout
 
-## Ducket HTML
-
-### Chapter 4: Links
-
-- links are the defining feature of the web becuae they allow you to move from one web page to another - enabling the very idea of browsing or surfing
-- links are created with the anchor tag
-- example
-```
-<a href=" ">text</a>
-```
-- the text is the clickable link and the href is the address to where it goes
-- relative url is linking to a page on the same site
-- absolute url is when you have a link to a different website
-- an email link is created ina similar way but you use the mailto: attriburte
-```
-<a href="mailto:john@example.com">Email John</a>
-```
-- the target attribute opens a link in a new window
-- you can link to other places on the same page using the id tag
-
-### Chapter 15: Layout
+### Chapter 15: Layout (notes from class 04 reading comtinued)
 
 - CSS looks at everything as blocks
 - block level elements - take up their whole line
@@ -45,47 +25,14 @@ h1 {
   1. right
   1. both
   1. none
-
-#### since this is such a big chapter i am going to finish my notes on a different page at another time and just focus on what i have here for the time being
-
-## Ducket Javascript
-
-### Chapter 3 Functions, Methods, and Objects (first part only p 86-99)
-
-- Functions let you group a series of statements together to perform a specific task
-- functiosn store a statment or group of statments so they can be called upon later
-- the code in a function will only execute if the function is called
-- example
-
-```
-function sayhello() {
-  document.write('Hello');
-}
-```
-
-- to call a function you simply write the name of the function
-
-```
-sayhello()
-```
-
-- variable scope - the location that you decalre a variable will affect where it can be used within your code, i.e. if declared in a function it can only be used in that function unless also declared outside the function
-- local variables
-- global variables
-- Objects group together a set of variables and functions to create a model of something you would recognize from the real world
-- in an object variables and functions take on new names
- 1. in a object **variables** become known as **properties** and **functions** become known as **methods**
-
-
-## Article: 6 Reasons for pairing programming
-
-1. Greater efficiency
-1. Engaged collaboration
-1. Learning from Fellow students
-1. Socila Skills
-1. Job interview readiness
-1. Work environment readiness
-
-- link to article - https://www.codefellows.org/blog/6-reasons-for-pair-programming/
+  
+- < div > elements are often used as containing elements to group together sections of a page
+- browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning
+- the float propertyt moves elements to the right or left of the page and can be used to create multi column layouts
+- pages can be fixerd width or liquid (stretchy) layouts
+- designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels
+- grids help create professional and flexible designs
+- CSS framworks provide rules for common tasks
+- you can have multiple CSS files on one page.
 
 [Back to code 201 notes](201.md)
