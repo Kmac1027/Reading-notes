@@ -72,4 +72,5 @@
 - when an event occurs on an element, it can trigger a Javascript function. When this function then changes the web page in some way, it feels interactive because it has responded to the user
 - you canuse event delegation to monitor for events that happen on all of the children of an event
 - the most commonly used events are W3C DOM events, although there are others in the HTML5 specifications as well as browsers-specific events.
+
 [Back to code 201 notes](201.md)
