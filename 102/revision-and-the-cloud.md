@@ -69,4 +69,4 @@ you can view all the remote URLs
 next to their corresponding short names.
 ```
 
-[Back to code 102 notes](102.md)
+[Back to code 102 notes](../102.md)

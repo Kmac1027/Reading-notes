@@ -46,4 +46,4 @@
 - functions let you group a series of statements together to preform a specific task
 - if different parts of a script repeat the same task, you can reuse the function, rather then repeating the same set of statements
 
-[Back to code 102 notes](102.md)
+[Back to code 102 notes](../102.md)
