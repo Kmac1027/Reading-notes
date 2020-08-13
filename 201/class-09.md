@@ -73,4 +73,4 @@
 - you canuse event delegation to monitor for events that happen on all of the children of an event
 - the most commonly used events are W3C DOM events, although there are others in the HTML5 specifications as well as browsers-specific events.
 
-[Back to code 201 notes](201.md)
+[Back to code 201 notes](../201.md)
