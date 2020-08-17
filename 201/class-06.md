@@ -35,4 +35,4 @@
 - an element node can contain multiple text nodes and child elements that are siblings of eachother
 - Browsers offer tools for viewing the DOM tree
 
-[Back to code 201 notes](201.md)
+[Back to code 201 notes](../201.md)

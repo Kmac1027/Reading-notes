@@ -40,4 +40,4 @@
 
 - a *FOR* loop uses a counter as a condition. This instructs the code to run a specified number of times<br>
 
-[Back to code 102 notes](102.md)
+[Back to code 102 notes](../102.md)

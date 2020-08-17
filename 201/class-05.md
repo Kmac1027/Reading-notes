@@ -95,4 +95,4 @@
   -  :active set the color and style of an element when it is being activated by the user
   - :focus is applied when an element has focus. Any element you can interact with, such as a link or prompt box. focus occurs when the browser discovers that you are ready to interact with an element
 
-[Back to code 201 notes](201.md)
+[Back to code 201 notes](../201.md)

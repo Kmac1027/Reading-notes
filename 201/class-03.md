@@ -63,4 +63,4 @@ max-height
 - all values evaluate to either **TRUTHY** or **FALSY**
 - there are 3 types of loops, **For**, **While**, **Do While**
 
-[Back to code 201 notes](201.md)
+[Back to code 201 notes](../201.md)

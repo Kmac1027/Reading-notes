@@ -109,4 +109,4 @@ Visual hierarchy refers to the order in whuch your eyes preceive what they see
 
 ### Sectioning Elements
 
-[Back to code 102 notes](102.md)
+[Back to code 102 notes](../102.md)
