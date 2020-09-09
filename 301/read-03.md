@@ -25,6 +25,29 @@ Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });
 - link to page - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - covered in preveous notes
 
+#### a brief overview
+- The flex container becomes flexible by setting the display property to flex:
+```
+.container {
+  display: flex; /* or inline-flex */
+}
+```
+- The flex container properties are:
+  1. flex-direction
+  1. flex-wrap
+  1. flex-flow
+  1. justify-content
+  1. align-items
+  1. align-content
+- The direct child elements of a flex container automatically becomes flexible (flex) items.
+- The flex item properties are:
+  1. order
+  1. flex-grow
+  1. flex-shrink
+  1. flex-basis
+  1. flex
+  1. align-self
+
 ## flex-box froggy
 - completed all 24 levels
 ![](../img/completed flex froggy.png)
