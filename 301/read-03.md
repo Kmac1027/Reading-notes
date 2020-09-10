@@ -51,6 +51,7 @@ Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });
 ## flex-box froggy
 - completed all 24 levels
 ![](../img/completed flex froggy.png)
+
 [Back to code 301 notes](../301.md)
 
 ## Reference: Mustache.js Official documentation
