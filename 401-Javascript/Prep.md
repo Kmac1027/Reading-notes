@@ -82,3 +82,5 @@
 This prevents 5 Whys from becoming just a process of deductive reasoning, which can generate a large number of possible causes and, sometimes, create more confusion as you chase down hypothetical problems. Your team members may come up with one obvious reason why, or several plausible ones. Record their answers as succinct phrases, rather than as single words or lengthy statements, and write them below (or beside) your problem statement. For example, saying "volume of calls is too high" is better than a vague "overloaded."
 
 1. **Ask "Why?" Four More Times** - For each of the answers that you generated in Step 3, ask four further "whys" in succession. Each time, frame the question in response to the answer you've just recorded.
+
+[Back to code 401 notes](../401-Javascript.md)
