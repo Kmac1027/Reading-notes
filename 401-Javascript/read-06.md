@@ -63,4 +63,6 @@
 
 #### REST and HTTP are not same
 
+- ReST is a set of rules, HTTP is what we use to adhere to those rules
+
 [Back to code 401 notes](../401-Javascript.md)
