@@ -2,10 +2,10 @@
 
 ## Define
 
-SOAP
-ReST Verbs
-CRUD Verbs
-Swagger
+1. SOAP - is an acronym for **Simple Object Access Protocol**. It is an XML-based messaging protocol for exchanging information among computers. SOAP is an application of the XML specification.
+1. ReST Verbs - POST/GET/PUT/DELETE/PATCH
+1. CRUD Verbs - CREATE/READ/UPDATE/DELETE
+1. Swagger - Swagger is in essence an Interface Description Language for describing RESTful APIs expressed using JSON. Swagger is used together with a set of open-source software tools to design, build, document, and use RESTful web services. Swagger includes automated documentation, code generation, and test-case generation
 
 ## express middleware explained
 
