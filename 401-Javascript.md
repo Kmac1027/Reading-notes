@@ -7,5 +7,6 @@
 - [Read 04](401-Javascript/read-04.md)
 - [Read 05](401-Javascript/read-05.md)
 - [Read 06](401-Javascript/read-06.md)
+- [Read 07](401-Javascript/read-07.md)
 
 [Back Home](README.md)
