@@ -175,3 +175,5 @@ ALGORITHM peek()
 return front = NULL
 
 ```
+
+[Back to code 401 notes](../401-Javascript.md)
