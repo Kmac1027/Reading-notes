@@ -24,6 +24,20 @@
 
 - far more secure
 
+## Document the following Vocabulary Terms (defs from Riva)
+
+- Authentication: Authentication is the practice of validating the identity of a registered user attempting to gain access to an application, API, microservices or any other data resource.
+- Authorization: Authorization is about deciding whether an individual is permitted to perform a given action on a specific resource once they are authenticated.
+- Encryption: The process of converting information or data into a code, especially to prevent unauthorized access.This technique involves a key, which is a set of mathematical values, to turn the data into an encrypted form. The receiver also has the key and uses it to decrypt the data. This process of encryption and decryption is referred to as cryptography.
+- Hashing: Hashing is the process of converting a given key into another value. A hash function is used to generate the new value according to a mathematical algorithm. It transforms a string of characters into a value of fixed length. This generated value is called hash.
+- Session: A [session](https://en.wikipedia.org/wiki/Session_(computer_science) (Links to an external site.) is a temporary and interactive information interchange between two or more communicating devices
+- Cookie: A cookie (Links to an external site.) is a text file stored on a user’s computer by a web browser, at the request of the web server. A cookie is limited to a small amount of data and can only be read by the website that created it.
+- Token: Ok, there are different types of tokens. Generally a token is an object (in software or in hardware) which represents the right to perform some operation. There can be client tokens, user tokens, security tokens, payment tokens etc.
+- Basic Auth: A simple authentication scheme built into the HTTP protocol. The client sends HTTP requests with the Authorization header that contains the word Basic, followed by a space and a base64-encoded(non-encrypted) string username: password.
+- Encoding: Encoding is done to transform data into a form that can be read by other machines or used by other processes.
+- Secret: Anything that a developer doesn't want someone else to see. For example, database passcodes, API keys, stuff like that. Anything that could be in an .env file for instance.
+- Cryptography: Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word kryptos, which means hidden.
+
 ## JWTs Explained
 
 [Link to Video](https://www.youtube.com/watch?v=926mknSW9Lo&ab_channel=Bitfumes)
