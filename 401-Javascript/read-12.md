@@ -24,7 +24,7 @@
 
 - far more secure
 
-## Document the following Vocabulary Terms (defs from Riva)
+## Document the following Vocabulary Terms (defenitions from Riva Davidowski)
 
 - Authentication: Authentication is the practice of validating the identity of a registered user attempting to gain access to an application, API, microservices or any other data resource.
 - Authorization: Authorization is about deciding whether an individual is permitted to perform a given action on a specific resource once they are authenticated.
