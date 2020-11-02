@@ -15,5 +15,7 @@
 - [Read 12](401-Javascript/read-12.md)
 - [Read 13](401-Javascript/read-13.md)
 - [Read 14](401-Javascript/read-14.md)
+- [Read 15](401-Javascript/read-15.md)
+- [Read 16](401-Javascript/read-16.md)
 
 [Back Home](README.md)
