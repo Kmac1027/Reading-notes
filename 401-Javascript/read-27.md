@@ -34,12 +34,12 @@
 -  you cannot return false to prevent default behavior in React. You must call preventDefault explicitly.
 - Inside a loop, it is common to want to pass an extra parameter to an event handler
 
-## forms
+## Forms
 
 [link to Article](https://reactjs.org/docs/forms.html)
 
 - HTML form elements work a little bit differently from other DOM elements in React, because form elements naturally keep some internal state
-- In HTML, form elements such as <input>, <textarea>, and <select> typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
+- In HTML, form elements such as < input >, < textarea >, and < select > typically maintain their own state and update it based on user input. In React, mutable state is typically kept in the state property of components, and only updated with setState().
 - We can combine the two by making the React state be the “single source of truth”. Then the React component that renders a form also controls what happens in that form on subsequent user input. An input form element whose value is controlled by React in this way is called a “controlled component”.
 - Since the value attribute is set on our form element, the displayed value will always be this.state.value, making the React state the source of truth. Since handleChange runs on every keystroke to update the React state, the displayed value will update as the user types.
 - With a controlled component, the input’s value is always driven by the React state. While this means you have to type a bit more code, you can now pass the value to other UI elements too, or reset it from other event handlers.
@@ -66,7 +66,7 @@
 
 1. Replace this.props.date with this.state.date in the render() method:
 1. Add a class constructor that assigns the initial this.state:
-1. Remove the date prop from the <Clock /> element:
+1. Remove the date prop from the < Clock /> element:
 
 - In applications with many components, it’s very important to free up resources taken by the components when they are destroyed.
 - We want to set up a timer whenever the Clock is rendered to the DOM for the first time. This is called “mounting” in React.
@@ -75,7 +75,7 @@
 
 ### Recap
 
-1. When <Clock /> is passed to ReactDOM.render(), React calls the constructor of the Clock component. Since Clock needs to display the current time, it initializes this.state with an object including the current time. We will later update this state.
+1. When < Clock /> is passed to ReactDOM.render(), React calls the constructor of the Clock component. Since Clock needs to display the current time, it initializes this.state with an object including the current time. We will later update this state.
 1. React then calls the Clock component’s render() method. This is how React learns what should be displayed on the screen. React then updates the DOM to match the Clock’s render output.
 1. When the Clock output is inserted in the DOM, React calls the componentDidMount() lifecycle method. Inside it, the Clock component asks the browser to set up a timer to call the component’s tick() method once a second.
 1. Every second the browser calls the tick() method. Inside it, the Clock component schedules a UI update by calling setState() with an object containing the current time. Thanks to the setState() call, React knows the state has changed, and calls the render() method again to learn what should be on the screen. This time, this.state.date in the render() method will be different, and so the render output will include the updated time. React updates the DOM accordingly.
@@ -109,8 +109,6 @@ function Welcome(props) {
 - Typically, new React apps have a single App component at the very top. However, if you integrate React into an existing app, you might start bottom-up with a small component like Button and gradually work your way to the top of the view hierarchy.
 - Whether you declare a component as a function or a class, it must never modify its own props
 - **All React components must act like pure functions with respect to their props.** application UIs are dynamic and change over time. In the next section, we will introduce a new concept of “state”. State allows React components to change their output over time in response to user actions, network responses, and anything else, without violating this rule.
-
-
 
 ## React Testing Library
 
