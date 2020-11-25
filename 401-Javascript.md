@@ -27,4 +27,6 @@
 - [Read 29](401-Javascript/read-29.md)
 - **Read 30 was written right into canvas**
 - [Read 31](401-Javascript/read-31.md)
+- [Read 32](401-Javascript/read-32.md)
+- [Read 33](401-Javascript/read-33.md)
 [Back Home](README.md)
