@@ -31,4 +31,6 @@
 - [Read 33](401-Javascript/read-33.md)
 - **Read 36 was not completed due to me being sick**
 - [Read 37](401-Javascript/read-37.md)
+- [Read 38](401-Javascript/read-38.md)
+
 [Back Home](README.md)
