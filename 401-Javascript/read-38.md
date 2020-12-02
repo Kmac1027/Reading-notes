@@ -1,4 +1,4 @@
-# Readings 38: Redux - Asynchronous Acti
+# Readings 38: Redux - Asynchronous Actions
 
 ## dan abramov on suspense
 
